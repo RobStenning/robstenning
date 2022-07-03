@@ -2,7 +2,7 @@
 
 Here's a little bit about me
 
-- ⚙️ I’m currently working on dogandbonebeerco.co.uk
+- ⚙️ I’m currently working on [dogandbonebeerco.co.uk](www.dogandbonebeerco.co.uk)
 - 🌱 I’m currently learning JavaScript and C#
 - 💻 I work in the telecoms sector designing hyperscale data centre's
 - 💬 Ask me about my plants 🌵 my dog 🦴 coffee ☕ or formula one 🏎️
