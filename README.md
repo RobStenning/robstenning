@@ -3,7 +3,7 @@
 Here's a little bit about me
 
 - ⚙️ I’m currently working on [dogandbonebeerco.co.uk](https://www.dogandbonebeerco.co.uk/)
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning JavaScript and F#
 - 💻 I work in the telecoms sector designing hyperscale data centre's
 - 💬 Ask me about my plants 🌵 my dog 🦴 coffee ☕ or formula one 🏎️
 
